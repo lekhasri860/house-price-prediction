@@ -6,8 +6,8 @@ This is my end-to-end Machine Learning project to predict house prices in Vijaya
 Firstly click on the code and download the Zip file of the project and extract all files and open the file on Vscode 
 1. Install dependencies:
  pip install -r requirements.txt
-2. Run the app.py in new terminal:
-   python src/web_app.py
+2. Run the app.py:
+  In terminal give: python src/web_app.py
 3.  Open in browser:
 http://127.0.0.1:5000
 
